@@ -37,4 +37,6 @@ Buat file pvkeys.txt dan masukkan private key setiap wallet dalam baris terpisah
 Pantau Gwei di website https://testnet.monadexplorer.com
 
 ##Join My chanel (jika tidak keberatan)
+
+
 https://t.me/sigundulmania
