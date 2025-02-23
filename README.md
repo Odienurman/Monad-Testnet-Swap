@@ -18,6 +18,9 @@ git clone https://github.com/Odienurman/Monad-Testnet-Swap.git
 cd Monad-Testnet-Swap
 ```
 ```sh
+pip uninstall web3
+```
+```sh
 pip install web3==6.20.1
 ```
 ```sh
