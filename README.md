@@ -1,9 +1,14 @@
 # Monad-Testnet-Swap
 ✨ Fitur Utama
+
 🔄 Auto Swap: Konversi otomatis MON ke WMON.
+
 💰 Auto Withdraw: Langsung menarik kembali WMON ke MON setelah swap.
+
 ⚡ Retry Mechanism: Jika transaksi gagal, bot akan mencoba ulang hingga berhasil.
+
 🔥 Multi-wallet Support: Bisa digunakan untuk beberapa wallet sekaligus.
+
 📊 Log Transaksi: Memberikan laporan transaksi yang jelas di terminal.
 
 ##🚀 Cara Menggunakan
@@ -26,5 +31,6 @@ python bot.py
 
 ## Konfigurasi
 
-Buat file pvkeys.txt dan masukkan private key setiap wallet dalam baris terpisah.
+Buat file pvkeys.txt dan masukkan private key setiap wallet dalam baris terpisah
+
 Pantau Gwei di website https://testnet.monadexplorer.com
