@@ -13,8 +13,8 @@
 
 ##🚀 Cara Menggunakan
 ```sh
-   git clone https://github.com/Odienurman/Monad-Testnet-Swap.git
-   cd Monad-Testnet-Swap
+git clone https://github.com/Odienurman/Monad-Testnet-Swap.git
+cd Monad-Testnet-Swap
 ```
 ```sh
 pip install web3==6.20.1
