@@ -27,7 +27,7 @@ pip install colorama
 pip install pyfiglet
 ```
 ```sh
-python bot.py
+python monswap.py
 ```
 
 ## Konfigurasi
